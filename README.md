@@ -1,0 +1,1 @@
+# DadJokes is an exercise provided by my instructor to help familiarize me with the processes of creating local and remote repositories using git/Github, dynamically adding HTML to the DOM using JS, and using CSS/Flexbox to create a uniform grid layout.
